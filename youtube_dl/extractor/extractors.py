@@ -30,6 +30,7 @@ from .aenetworks import (
     AENetworksIE,
     HistoryTopicIE,
 )
+from .afl import AFLIE
 from .afreecatv import AfreecaTVIE
 from .aftonbladet import AftonbladetIE
 from .airmozilla import AirMozillaIE
